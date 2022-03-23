@@ -24,4 +24,4 @@ docker pull shubhamgolam/bb-recon:latest
 - awscli
 - anew
 
-### Suggestions are welcomed <3 
+### Suggestions are welcome <3 
